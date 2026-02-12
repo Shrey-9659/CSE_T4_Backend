@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Container with Button</title>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 320px;
+  }
+
+  .container h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+
+  .container p {
+    color: #666;
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+
+  .container button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+
+  .container button:hover {
+    background-color: #45a049;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <input type="text" name="" id="temp">
+  <p id="text">Click the button to generate quote</p>
+  <button id="btn">Click Me</button>
+</div>
+<script src="index.js"></script>
+</body>
+</html>
