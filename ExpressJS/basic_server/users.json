@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "location": "Delhi, India",
+      "phoneNumber": "+91-9876543210",
+      "email": "aarav.sharma@example.com",
+      "age": 28,
+      "gender": "male",
+      "isActive": true,
+      "createdAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Priya Verma",
+      "location": "Mumbai, India",
+      "phoneNumber": "+91-9123456780",
+      "email": "priya.verma@example.com",
+      "age": 32,
+      "gender": "female",
+      "isActive": false,
+      "createdAt": "2023-11-22T08:15:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Rohan Mehta",
+      "location": "Bangalore, India",
+      "phoneNumber": "+91-9988776655",
+      "email": "rohan.mehta@example.com",
+      "age": 25,
+      "gender": "male",
+      "isActive": true,
+      "createdAt": "2024-02-05T14:45:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Neha Gupta",
+      "location": "Chandigarh, India",
+      "phoneNumber": "+91-9090909090",
+      "email": "neha.gupta@example.com",
+      "age": 29,
+      "gender": "female",
+      "isActive": true,
+      "createdAt": "2024-03-10T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Karan Singh",
+      "location": "Jaipur, India",
+      "phoneNumber": "+91-9812345678",
+      "email": "karan.singh@example.com",
+      "age": 35,
+      "gender": "male",
+      "isActive": false,
+      "createdAt": "2023-12-01T09:20:00Z"
+    }
+  ]
